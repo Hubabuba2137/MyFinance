@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_statistics"
+        android:title="Statystyki"
+        android:icon="@drawable/ic_pie_chart"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_delete_all"
+        android:title="Resetuj dane"
+        android:icon="@drawable/ic_delete_all"
+        app:showAsAction="ifRoom" />
+
+</menu>
